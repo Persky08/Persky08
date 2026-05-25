@@ -82,8 +82,6 @@ I'm an MSc Artificial Intelligence & Data Science student at the University of H
 
 ## 📊 GitHub Stats
 
-![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=persky08&theme=tokyonight)
 
 Thanks for visiting my profile!
